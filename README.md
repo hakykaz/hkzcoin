@@ -1,0 +1,2 @@
+# hkzcoin
+COIN UNDER DEV
